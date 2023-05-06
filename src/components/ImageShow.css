@@ -1,0 +1,7 @@
+img{
+      border: 2px solid gray;
+      display: flex;
+}
+img:hover{
+      transform: scale(1.1);
+}
